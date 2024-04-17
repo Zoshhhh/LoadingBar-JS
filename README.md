@@ -40,7 +40,6 @@ To observe the transition correctly and evaluate the impact of internet connecti
 ```
 This will temporarily disable the update of the loading counter, the progress bar, and the opacity of the loading screen, allowing you to visualize the transition uninterrupted.
 
-License
-This loading screen project is provided under the MIT License. Feel free to use and modify it for your own projects.
+## Demo
 
-Enhance the loading experience of your website with this dynamic loading screen! 🚀🌐
+Stay tuned for the live demo link!
