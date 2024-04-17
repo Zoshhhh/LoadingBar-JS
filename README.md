@@ -1,4 +1,4 @@
-**Dynamic Loading Screen Project**
+# Dynamic Loading Screen Project
 
 Welcome to the Dynamic Loading Screen project! This JavaScript-based solution aims to enhance user experience by providing visual feedback during the loading process of web content.
 
