@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+}
+body {
+  overflow: hidden;
+}
+
+.loading {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background: #222;
+  transition: 0.45s;
+}
+
+.loading-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  font-family: "Franklin Gothic Heavy";
+  color: white;
+  font-size: 7vw;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3),
+               5px 5px 70px rgba(255, 255, 255, 0.5);
+}
+
+.number{
+  width: 100%;
+  text-align: center;
+}
+
+#bar {
+  width: 300px;
+  height: 12px;
+  border: 1px solid white;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3),
+  5px 5px 70px rgba(255, 255, 255, 0.5);
+}
+
+#progress {
+  background: white;
+  width: 0%;
+  height: 100%;
+}
+
+header {
+  min-height: 100vh;
+  overflow: hidden;
+  background: url(./bg.webp) center/cover;
+}
