@@ -42,4 +42,4 @@ This will temporarily disable the update of the loading counter, the progress ba
 
 ## Demo
 
-Stay tuned for the live demo link!
+[Demo ! ](https://loading-bar-gilt.vercel.app/)
